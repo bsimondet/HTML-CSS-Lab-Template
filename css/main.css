@@ -1,4 +1,4 @@
-h2 {
+h1 {
     color: red;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
@@ -16,4 +16,7 @@ img {
 
 .centerText {
     text-align: center;
+}
+footer {
+    font-size: small;
 }
