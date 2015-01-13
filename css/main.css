@@ -1,6 +1,17 @@
 h1 {
     color: red;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+    background-color:deepskyblue;
+}
+
+ul{
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+}
+a{
+    display:block;
+    width:60px;
 }
 
 p {
@@ -16,6 +27,7 @@ img {
 
 .centerText {
     text-align: center;
+
 }
 footer {
     font-size: small;
