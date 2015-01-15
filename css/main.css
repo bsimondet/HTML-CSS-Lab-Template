@@ -13,7 +13,13 @@ a{
     display:block;
     width:60px;
 }
-
+#navbar{
+    display: block;
+    width:50%
+    margin-left:auto;
+    margin-right:auto;
+    font-size:x-large;
+}
 
 p {
     font-family: monospace;
@@ -41,4 +47,10 @@ footer {
 }
 #subpage em{
     font-size: xx-large;
+}
+section {
+    font-size:x-large;
+}
+#simstitle{
+    font-size:medium;
 }
